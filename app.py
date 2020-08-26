@@ -9,6 +9,8 @@ import plotly.express as px
 
 "Représentation des accidents de la route à New york en fonction du lieu , du temps et de la gravité"
 
+"je rajoute un commentaire pour le fun"
+
 DATA_URL = ("C:/Users/batma_000/Desktop/cours python data/crash_nyc/Motor_Vehicle_Collisions_-_Crashes_course.csv")
 
 st.title('Motor Vehicle Collisions in New York City.')
